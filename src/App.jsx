@@ -15,6 +15,7 @@ function App() {
   const [onlyWithServices, setOnlyWithServices] = useState(false)
   const [baseMap, setBaseMap] = useState('osm')
   const [searchText, setSearchText] = useState('')
+  const [showMobileControls, setShowMobileControls] = useState(false)
   const [landmarkTypeFilter, setLandmarkTypeFilter] = useState({
     bank_mitra: true,
     water_point: true,
@@ -37,7 +38,7 @@ function App() {
   }
 
   return (
-    <main className="h-screen overflow-hidden bg-[radial-gradient(circle_at_top_left,#e0f2fe_0%,#e2e8f0_45%,#f8fafc_100%)] px-3 py-3 text-slate-800 sm:px-6 sm:py-4">
+    <main className="min-h-screen overflow-y-auto bg-[radial-gradient(circle_at_top_left,#e0f2fe_0%,#e2e8f0_45%,#f8fafc_100%)] px-3 py-3 text-slate-800 sm:px-6 sm:py-4 lg:h-screen lg:overflow-hidden">
       <div className="mx-auto max-w-350">
         <header className="mb-3 rounded-2xl border border-cyan-100 bg-white/90 px-5 py-3 shadow-sm backdrop-blur sm:mb-4 sm:px-8">
           <h1 className="text-center text-2xl font-bold tracking-tight text-cyan-900 sm:text-4xl">
@@ -46,17 +47,29 @@ function App() {
           <p className="mt-2 text-center text-xs text-slate-600 sm:text-base">
             Government-style geospatial portal for Allahabad subdistrict, Prayagraj
           </p>
+          <div className="mt-3 flex justify-center lg:hidden">
+            <button
+              type="button"
+              onClick={() => setShowMobileControls((v) => !v)}
+              className="rounded-lg bg-cyan-700 px-4 py-2 text-sm font-medium text-white shadow transition hover:bg-cyan-800"
+            >
+              {showMobileControls ? 'Hide Controls' : 'Show Controls'}
+            </button>
+          </div>
         </header>
 
-        <section className="grid h-[calc(100vh-10.5rem)] min-h-0 gap-4 lg:grid-cols-[340px_1fr]">
-          <aside className="flex min-h-0 flex-col rounded-2xl border border-slate-200 bg-[#0b3b6f] p-4 text-white shadow-xl">
+        <section className="grid gap-4 lg:h-[calc(100vh-10.5rem)] lg:min-h-0 lg:grid-cols-[340px_1fr]">
+          <aside
+            className={`min-h-0 ${showMobileControls ? 'block' : 'hidden'} lg:block`}
+          >
+            <div className="flex min-h-0 flex-col rounded-2xl border border-slate-200 bg-[#0b3b6f] p-4 text-white shadow-xl">
             <div className="mb-3 flex items-center justify-between border-b border-cyan-200/30 pb-3">
               <h2 className="text-xl font-semibold tracking-wide">Map Controls</h2>
               <span className="rounded-full bg-cyan-400/20 px-2 py-1 text-xs font-medium text-cyan-100">
                 Live
               </span>
             </div>
-            <div className="flex-1 space-y-3 overflow-y-auto pr-1">
+            <div className="max-h-[48vh] flex-1 space-y-3 overflow-y-auto pr-1 lg:max-h-none">
               <div className="rounded-xl bg-white/95 p-3 text-slate-800">
                 <label className="mb-1 block text-xs font-semibold uppercase tracking-wider text-slate-500">
                   Village Search
@@ -201,9 +214,10 @@ function App() {
                 </div>
               </div>
             </div>
+            </div>
           </aside>
 
-          <section className="min-h-0 overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-xl">
+          <section className="h-[58vh] min-h-[360px] overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-xl sm:h-[62vh] lg:h-auto lg:min-h-0">
             <Map
               baseMap={baseMap}
               showBoundary={showBoundary}

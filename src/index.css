@@ -42,3 +42,21 @@ body {
   color: #0f172a;
   font-weight: 700;
 }
+
+@media (max-width: 640px) {
+  .leaflet-top.leaflet-right .leaflet-control-zoom,
+  .leaflet-control-layers {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+
+  .leaflet-control-layers-toggle {
+    width: 32px;
+    height: 32px;
+  }
+
+  .leaflet-popup-content {
+    margin: 10px;
+    font-size: 12px;
+  }
+}
