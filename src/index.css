@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import 'tailwindcss';
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #1e293b;
+}
+
+.leaflet-container {
+  background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
+}
+
+.village-label {
+  background: rgba(224, 242, 254, 0.95);
+  border: 1px solid #7dd3fc;
+  border-radius: 999px;
+  color: #0f766e;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  box-shadow: none;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 14px;
+  box-shadow: 0 12px 35px rgba(15, 23, 42, 0.2);
+}
+
+.leaflet-popup-content {
+  margin: 12px;
+}
+
+.leaflet-top.leaflet-right .leaflet-control-zoom {
+  margin-top: 16px;
+  margin-right: 14px;
+  border: 1px solid #cbd5e1;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.12);
+}
+
+.leaflet-control-zoom a {
+  color: #0f172a;
+  font-weight: 700;
+}

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kathula Ghauspur Bank Mitra",
+        "type": "bank_mitra",
+        "type_label": "Bank Mitra",
+        "village": "Hatwa",
+        "address": "CP7R+XGG, Kathula Gospur, Prayagraj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.837, 25.449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hatwa Banking Correspondent",
+        "type": "bank_mitra",
+        "type_label": "Bank Mitra",
+        "village": "Hatwa",
+        "address": "Near panchayat office, Hatwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8185, 25.4068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ismailpur Kotwa Water Point",
+        "type": "water_point",
+        "type_label": "Water Point",
+        "village": "Ismailpur Kotwa",
+        "address": "Village core sensor node, Ismailpur Kotwa, Prayagraj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.883, 25.403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mardanpur Water Pump",
+        "type": "water_point",
+        "type_label": "Water Point",
+        "village": "Mardanpur",
+        "address": "Pump station near Mardanpur boundary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.935, 25.372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public Toilet - Ahmadpur Pawan",
+        "type": "public_toilet",
+        "type_label": "Public Toilet",
+        "village": "Ahmadpur Pawan",
+        "address": "Near village market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8483, 25.4382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public Toilet - Ismailpur Kotwa",
+        "type": "public_toilet",
+        "type_label": "Public Toilet",
+        "village": "Ismailpur Kotwa",
+        "address": "Bus stop lane, Ismailpur Kotwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8527, 25.3926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre Keshopur",
+        "type": "hospital",
+        "type_label": "Health Centre",
+        "village": "Keshopur",
+        "address": "Main road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8527, 25.4401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Health Sub Centre",
+        "type": "hospital",
+        "type_label": "Health Centre",
+        "village": "Keshopur",
+        "address": "North Keshopur ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8988, 25.4241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary School Hatwa",
+        "type": "school",
+        "type_label": "School",
+        "village": "Hatwa",
+        "address": "School road, Hatwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.816, 25.4049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govt Inter College Keshopur",
+        "type": "school",
+        "type_label": "School",
+        "village": "Keshopur",
+        "address": "Link road, Keshopur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.9007, 25.4267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ancient Shiva Temple Hatwa",
+        "type": "temple",
+        "type_label": "Temple",
+        "village": "Hatwa",
+        "address": "Temple street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8455, 25.4371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanuman Mandir Mardanpur",
+        "type": "temple",
+        "type_label": "Temple",
+        "village": "Mardanpur",
+        "address": "Old chowk area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.9377, 25.3804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SBI ATM Hatwa",
+        "type": "atm",
+        "type_label": "ATM",
+        "village": "Hatwa",
+        "address": "Near market square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8194, 25.4079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rural ATM Keshopur",
+        "type": "atm",
+        "type_label": "ATM",
+        "village": "Keshopur",
+        "address": "Keshopur bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.8965, 25.4234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Kiosk Ahmadpur Pawan",
+        "type": "water_point",
+        "type_label": "Water Point",
+        "village": "Ahmadpur Pawan",
+        "address": "Near handpump cluster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.7889, 25.4353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public Toilet - Ahmadpur Pawan",
+        "type": "public_toilet",
+        "type_label": "Public Toilet",
+        "village": "Ahmadpur Pawan",
+        "address": "Near PHC junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.7868, 25.4332]
+      }
+    }
+  ]
+}

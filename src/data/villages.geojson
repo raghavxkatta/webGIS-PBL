@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Hatwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.817, 25.406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ahmadpur Pawan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.787, 25.434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ismailpur Kotwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.854, 25.391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Keshopur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.897, 25.425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Mardanpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.939, 25.379]
+      }
+    }
+  ]
+}
