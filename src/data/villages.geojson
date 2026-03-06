@@ -7,11 +7,16 @@
         "state": "Uttar Pradesh",
         "district": "Prayagraj",
         "sub_district": "Allahabad",
-        "village": "Hatwa"
+        "village": "Khatangi Nagar",
+        "population": 4154,
+        "households": 772
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.817, 25.406]
+        "coordinates": [
+          81.973225,
+          25.409031
+        ]
       }
     },
     {
@@ -20,11 +25,16 @@
         "state": "Uttar Pradesh",
         "district": "Prayagraj",
         "sub_district": "Allahabad",
-        "village": "Ahmadpur Pawan"
+        "village": "Bharwari Bazar",
+        "population": 5243,
+        "households": 988
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.787, 25.434]
+        "coordinates": [
+          81.986923,
+          25.458754
+        ]
       }
     },
     {
@@ -33,11 +43,16 @@
         "state": "Uttar Pradesh",
         "district": "Prayagraj",
         "sub_district": "Allahabad",
-        "village": "Ismailpur Kotwa"
+        "village": "Gopalpur Purwa",
+        "population": 2115,
+        "households": 419
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.854, 25.391]
+        "coordinates": [
+          81.77692,
+          25.542331
+        ]
       }
     },
     {
@@ -46,11 +61,16 @@
         "state": "Uttar Pradesh",
         "district": "Prayagraj",
         "sub_district": "Allahabad",
-        "village": "Keshopur"
+        "village": "Ramnagar Dih",
+        "population": 5889,
+        "households": 1132
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.897, 25.425]
+        "coordinates": [
+          81.794248,
+          25.558444
+        ]
       }
     },
     {
@@ -59,11 +79,1006 @@
         "state": "Uttar Pradesh",
         "district": "Prayagraj",
         "sub_district": "Allahabad",
-        "village": "Mardanpur"
+        "village": "Tikari Purwa",
+        "population": 6293,
+        "households": 1156
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.939, 25.379]
+        "coordinates": [
+          81.944679,
+          25.332227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Phulpur Kalan",
+        "population": 4772,
+        "households": 995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.837097,
+          25.40628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Naini Dih",
+        "population": 1330,
+        "households": 263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.930499,
+          25.453335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Jhunsi Patti",
+        "population": 5921,
+        "households": 1232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.798089,
+          25.523593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Soraon Patti",
+        "population": 1541,
+        "households": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.943384,
+          25.538568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Karchana Kalan",
+        "population": 2082,
+        "households": 370
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.799509,
+          25.415549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Bara Nagar",
+        "population": 5952,
+        "households": 1283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.794319,
+          25.377535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Dariyabad Purwa",
+        "population": 4055,
+        "households": 831
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.899048,
+          25.565669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Keshopur Kalan",
+        "population": 5716,
+        "households": 1092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.930209,
+          25.494405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Hatwa Mafi",
+        "population": 2831,
+        "households": 555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.941685,
+          25.510566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Mardanpur Kalan",
+        "population": 1766,
+        "households": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.923758,
+          25.567561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ahmadpur Dih",
+        "population": 3268,
+        "households": 673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.949284,
+          25.55228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ismailpur Khurd",
+        "population": 3963,
+        "households": 801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.762877,
+          25.342072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Dhanupur Chak",
+        "population": 5406,
+        "households": 983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.920862,
+          25.466651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Kaudihar Khurd",
+        "population": 3081,
+        "households": 661
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.90312,
+          25.431371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Mauima Khurd",
+        "population": 3863,
+        "households": 772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.824713,
+          25.384766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Saidabad Nagar",
+        "population": 5618,
+        "households": 1030
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.898602,
+          25.534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Shankargarh Gaon",
+        "population": 2060,
+        "households": 414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.967889,
+          25.376307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Lalgopalganj Chak",
+        "population": 4964,
+        "households": 931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.97283,
+          25.564622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Koraon Purwa",
+        "population": 3287,
+        "households": 585
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.723494,
+          25.539288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ghoorpur Chak",
+        "population": 4836,
+        "households": 960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.757697,
+          25.563858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Jhalwa Bazar",
+        "population": 5145,
+        "households": 960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.801052,
+          25.36573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Beli Tola",
+        "population": 3638,
+        "households": 694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.948468,
+          25.542061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Katra Chak",
+        "population": 5831,
+        "households": 1094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.974358,
+          25.44801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Kalyanpur Purwa",
+        "population": 1782,
+        "households": 382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.91173,
+          25.56584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Pipri Khurd",
+        "population": 5928,
+        "households": 1069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.794021,
+          25.481481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Khatangi Chak",
+        "population": 1260,
+        "households": 249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.873958,
+          25.534366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ramnagar Tola",
+        "population": 4519,
+        "households": 918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.78766,
+          25.508442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Tikari Khurd",
+        "population": 5381,
+        "households": 944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.844895,
+          25.332669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Phulpur Bazar",
+        "population": 5055,
+        "households": 1049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.980975,
+          25.441271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Naini Bazar",
+        "population": 3291,
+        "households": 656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.938874,
+          25.571072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Jhunsi Dih",
+        "population": 2405,
+        "households": 497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.900131,
+          25.557952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Soraon Ganj",
+        "population": 4336,
+        "households": 916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.766039,
+          25.548134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Karchana Tola",
+        "population": 2267,
+        "households": 407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.723322,
+          25.443649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Bara Patti",
+        "population": 5376,
+        "households": 981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.782802,
+          25.510574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Dariyabad Ganj",
+        "population": 2180,
+        "households": 473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.945492,
+          25.42115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Keshopur Mafi",
+        "population": 3934,
+        "households": 730
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.917784,
+          25.538482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Hatwa Dih",
+        "population": 3850,
+        "households": 711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.977301,
+          25.37515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Mardanpur Khurd",
+        "population": 6368,
+        "households": 1145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.792909,
+          25.384406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ahmadpur Chak",
+        "population": 2671,
+        "households": 473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.723123,
+          25.338745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ismailpur Gaon",
+        "population": 4177,
+        "households": 810
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.757891,
+          25.330853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Dhanupur Dih",
+        "population": 3204,
+        "households": 693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.931072,
+          25.394658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Mauima Patti",
+        "population": 1989,
+        "households": 379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.878727,
+          25.419018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Saidabad Gaon",
+        "population": 1828,
+        "households": 366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.758777,
+          25.504569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Shankargarh Mafi",
+        "population": 1592,
+        "households": 306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.815379,
+          25.490001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Lalgopalganj Gaon",
+        "population": 6251,
+        "households": 1295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.831528,
+          25.447089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Koraon Chak",
+        "population": 4323,
+        "households": 836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.832961,
+          25.462329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Ghoorpur Bazar",
+        "population": 5727,
+        "households": 1235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.964439,
+          25.352232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Jhalwa Mafi",
+        "population": 1967,
+        "households": 410
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.830403,
+          25.433237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Beli Patti",
+        "population": 5203,
+        "households": 1050
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.728647,
+          25.558538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Katra Dih",
+        "population": 2933,
+        "households": 579
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.759674,
+          25.426694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Kalyanpur Dih",
+        "population": 5124,
+        "households": 1105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.931993,
+          25.40938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Pipri Bazar",
+        "population": 1538,
+        "households": 277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.816601,
+          25.535092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Khatangi Kalan",
+        "population": 3777,
+        "households": 744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.799807,
+          25.407656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Bharwari Ganj",
+        "population": 2934,
+        "households": 528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.985682,
+          25.466402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "district": "Prayagraj",
+        "sub_district": "Allahabad",
+        "village": "Gopalpur Khurd",
+        "population": 1889,
+        "households": 373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.796587,
+          25.336099
+        ]
       }
     }
   ]

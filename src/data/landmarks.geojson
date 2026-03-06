@@ -4,225 +4,609 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kathula Ghauspur Bank Mitra",
+        "name": "Bank Mitra Kendra Ghoorpur Bazar",
         "type": "bank_mitra",
         "type_label": "Bank Mitra",
-        "village": "Hatwa",
-        "address": "CP7R+XGG, Kathula Gospur, Prayagraj"
+        "village": "Ghoorpur Bazar",
+        "address": "Main road, Ghoorpur Bazar, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9707991454"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.837, 25.449]
+        "coordinates": [
+          81.961476,
+          25.353855
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Hatwa Banking Correspondent",
+        "name": "Jal Sewa Point Phulpur Bazar",
+        "type": "water_point",
+        "type_label": "Water Point",
+        "village": "Phulpur Bazar",
+        "address": "Main road, Phulpur Bazar, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9103336477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.981134,
+          25.436143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Toilet Katra Dih",
+        "type": "public_toilet",
+        "type_label": "Public Toilet",
+        "village": "Katra Dih",
+        "address": "Main road, Katra Dih, Prayagraj",
+        "status": "under_maintenance",
+        "contact": "+91-9173742873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.755856,
+          25.420961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre Khatangi Nagar",
+        "type": "hospital",
+        "type_label": "Health Centre",
+        "village": "Khatangi Nagar",
+        "address": "Main road, Khatangi Nagar, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9292245313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.975602,
+          25.407872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government School Kalyanpur Dih",
+        "type": "school",
+        "type_label": "School",
+        "village": "Kalyanpur Dih",
+        "address": "Main road, Kalyanpur Dih, Prayagraj",
+        "status": "under_maintenance",
+        "contact": "+91-9855874056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.932094,
+          25.407997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandir / Monument Jhunsi Dih",
+        "type": "temple",
+        "type_label": "Temple",
+        "village": "Jhunsi Dih",
+        "address": "Main road, Jhunsi Dih, Prayagraj",
+        "status": "under_maintenance",
+        "contact": "+91-9502565852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.895277,
+          25.559675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rural ATM Kalyanpur Dih",
+        "type": "atm",
+        "type_label": "ATM",
+        "village": "Kalyanpur Dih",
+        "address": "Main road, Kalyanpur Dih, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9722293595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.93032,
+          25.404229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank Mitra Kendra Saidabad Gaon",
         "type": "bank_mitra",
         "type_label": "Bank Mitra",
-        "village": "Hatwa",
-        "address": "Near panchayat office, Hatwa"
+        "village": "Saidabad Gaon",
+        "address": "Main road, Saidabad Gaon, Prayagraj",
+        "status": "under_maintenance",
+        "contact": "+91-9639768705"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.8185, 25.4068]
+        "coordinates": [
+          81.762467,
+          25.508277
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Ismailpur Kotwa Water Point",
+        "name": "Jal Sewa Point Gopalpur Purwa",
         "type": "water_point",
         "type_label": "Water Point",
-        "village": "Ismailpur Kotwa",
-        "address": "Village core sensor node, Ismailpur Kotwa, Prayagraj"
+        "village": "Gopalpur Purwa",
+        "address": "Main road, Gopalpur Purwa, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9211657382"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.883, 25.403]
+        "coordinates": [
+          81.771528,
+          25.543352
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Mardanpur Water Pump",
-        "type": "water_point",
-        "type_label": "Water Point",
-        "village": "Mardanpur",
-        "address": "Pump station near Mardanpur boundary"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [81.935, 25.372]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Public Toilet - Ahmadpur Pawan",
+        "name": "Community Toilet Gopalpur Purwa",
         "type": "public_toilet",
         "type_label": "Public Toilet",
-        "village": "Ahmadpur Pawan",
-        "address": "Near village market"
+        "village": "Gopalpur Purwa",
+        "address": "Main road, Gopalpur Purwa, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9891021021"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.8483, 25.4382]
+        "coordinates": [
+          81.780986,
+          25.547776
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Public Toilet - Ismailpur Kotwa",
-        "type": "public_toilet",
-        "type_label": "Public Toilet",
-        "village": "Ismailpur Kotwa",
-        "address": "Bus stop lane, Ismailpur Kotwa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [81.8527, 25.3926]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Primary Health Centre Keshopur",
+        "name": "Primary Health Centre Khatangi Nagar",
         "type": "hospital",
         "type_label": "Health Centre",
-        "village": "Keshopur",
-        "address": "Main road"
+        "village": "Khatangi Nagar",
+        "address": "Main road, Khatangi Nagar, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9964744685"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.8527, 25.4401]
+        "coordinates": [
+          81.972482,
+          25.413701
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Community Health Sub Centre",
-        "type": "hospital",
-        "type_label": "Health Centre",
-        "village": "Keshopur",
-        "address": "North Keshopur ward"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [81.8988, 25.4241]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Primary School Hatwa",
+        "name": "Government School Ghoorpur Bazar",
         "type": "school",
         "type_label": "School",
-        "village": "Hatwa",
-        "address": "School road, Hatwa"
+        "village": "Ghoorpur Bazar",
+        "address": "Main road, Ghoorpur Bazar, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9845114648"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.816, 25.4049]
+        "coordinates": [
+          81.960401,
+          25.351896
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Govt Inter College Keshopur",
-        "type": "school",
-        "type_label": "School",
-        "village": "Keshopur",
-        "address": "Link road, Keshopur"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [81.9007, 25.4267]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ancient Shiva Temple Hatwa",
+        "name": "Mandir / Monument Karchana Kalan",
         "type": "temple",
         "type_label": "Temple",
-        "village": "Hatwa",
-        "address": "Temple street"
+        "village": "Karchana Kalan",
+        "address": "Main road, Karchana Kalan, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9959418524"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.8455, 25.4371]
+        "coordinates": [
+          81.793968,
+          25.417246
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Hanuman Mandir Mardanpur",
-        "type": "temple",
-        "type_label": "Temple",
-        "village": "Mardanpur",
-        "address": "Old chowk area"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [81.9377, 25.3804]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SBI ATM Hatwa",
+        "name": "Rural ATM Saidabad Gaon",
         "type": "atm",
         "type_label": "ATM",
-        "village": "Hatwa",
-        "address": "Near market square"
+        "village": "Saidabad Gaon",
+        "address": "Main road, Saidabad Gaon, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9436358240"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.8194, 25.4079]
+        "coordinates": [
+          81.759747,
+          25.509012
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Rural ATM Keshopur",
-        "type": "atm",
-        "type_label": "ATM",
-        "village": "Keshopur",
-        "address": "Keshopur bus stand"
+        "name": "Bank Mitra Kendra Gopalpur Purwa",
+        "type": "bank_mitra",
+        "type_label": "Bank Mitra",
+        "village": "Gopalpur Purwa",
+        "address": "Main road, Gopalpur Purwa, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9902356350"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.8965, 25.4234]
+        "coordinates": [
+          81.774074,
+          25.536884
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Water Kiosk Ahmadpur Pawan",
+        "name": "Jal Sewa Point Phulpur Kalan",
         "type": "water_point",
         "type_label": "Water Point",
-        "village": "Ahmadpur Pawan",
-        "address": "Near handpump cluster"
+        "village": "Phulpur Kalan",
+        "address": "Main road, Phulpur Kalan, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9983734540"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.7889, 25.4353]
+        "coordinates": [
+          81.836495,
+          25.406068
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Public Toilet - Ahmadpur Pawan",
+        "name": "Community Toilet Mauima Patti",
         "type": "public_toilet",
         "type_label": "Public Toilet",
-        "village": "Ahmadpur Pawan",
-        "address": "Near PHC junction"
+        "village": "Mauima Patti",
+        "address": "Main road, Mauima Patti, Prayagraj",
+        "status": "under_maintenance",
+        "contact": "+91-9833569130"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [81.7868, 25.4332]
+        "coordinates": [
+          81.877623,
+          25.419932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre Katra Dih",
+        "type": "hospital",
+        "type_label": "Health Centre",
+        "village": "Katra Dih",
+        "address": "Main road, Katra Dih, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9660003064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.76467,
+          25.431626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government School Lalgopalganj Gaon",
+        "type": "school",
+        "type_label": "School",
+        "village": "Lalgopalganj Gaon",
+        "address": "Main road, Lalgopalganj Gaon, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9293965170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.834873,
+          25.44856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandir / Monument Dariyabad Purwa",
+        "type": "temple",
+        "type_label": "Temple",
+        "village": "Dariyabad Purwa",
+        "address": "Main road, Dariyabad Purwa, Prayagraj",
+        "status": "under_maintenance",
+        "contact": "+91-9389588462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.903912,
+          25.565083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rural ATM Karchana Kalan",
+        "type": "atm",
+        "type_label": "ATM",
+        "village": "Karchana Kalan",
+        "address": "Main road, Karchana Kalan, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9673109545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.799003,
+          25.411615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank Mitra Kendra Dariyabad Purwa",
+        "type": "bank_mitra",
+        "type_label": "Bank Mitra",
+        "village": "Dariyabad Purwa",
+        "address": "Main road, Dariyabad Purwa, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9695286341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.899071,
+          25.562109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jal Sewa Point Ismailpur Khurd",
+        "type": "water_point",
+        "type_label": "Water Point",
+        "village": "Ismailpur Khurd",
+        "address": "Main road, Ismailpur Khurd, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9125130822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.757056,
+          25.341877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Toilet Katra Dih",
+        "type": "public_toilet",
+        "type_label": "Public Toilet",
+        "village": "Katra Dih",
+        "address": "Main road, Katra Dih, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9298290926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.759137,
+          25.424549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre Shankargarh Gaon",
+        "type": "hospital",
+        "type_label": "Health Centre",
+        "village": "Shankargarh Gaon",
+        "address": "Main road, Shankargarh Gaon, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9596683741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.970475,
+          25.376118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government School Phulpur Kalan",
+        "type": "school",
+        "type_label": "School",
+        "village": "Phulpur Kalan",
+        "address": "Main road, Phulpur Kalan, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9780052847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.842755,
+          25.408464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandir / Monument Ahmadpur Dih",
+        "type": "temple",
+        "type_label": "Temple",
+        "village": "Ahmadpur Dih",
+        "address": "Main road, Ahmadpur Dih, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9383239843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.953331,
+          25.555882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rural ATM Gopalpur Purwa",
+        "type": "atm",
+        "type_label": "ATM",
+        "village": "Gopalpur Purwa",
+        "address": "Main road, Gopalpur Purwa, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9444260540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.780203,
+          25.542558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank Mitra Kendra Phulpur Bazar",
+        "type": "bank_mitra",
+        "type_label": "Bank Mitra",
+        "village": "Phulpur Bazar",
+        "address": "Main road, Phulpur Bazar, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9899997539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.979286,
+          25.435838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jal Sewa Point Gopalpur Purwa",
+        "type": "water_point",
+        "type_label": "Water Point",
+        "village": "Gopalpur Purwa",
+        "address": "Main road, Gopalpur Purwa, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9329055090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.772904,
+          25.536832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Community Toilet Hatwa Dih",
+        "type": "public_toilet",
+        "type_label": "Public Toilet",
+        "village": "Hatwa Dih",
+        "address": "Main road, Hatwa Dih, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9452628920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.981547,
+          25.378433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primary Health Centre Khatangi Nagar",
+        "type": "hospital",
+        "type_label": "Health Centre",
+        "village": "Khatangi Nagar",
+        "address": "Main road, Khatangi Nagar, Prayagraj",
+        "status": "operational",
+        "contact": "+91-9819686067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.974479,
+          25.404067
+        ]
       }
     }
   ]

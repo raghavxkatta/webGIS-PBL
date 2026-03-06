@@ -12,6 +12,7 @@ function App() {
   const [showVillages, setShowVillages] = useState(true)
   const [showLandmarks, setShowLandmarks] = useState(true)
   const [showLabels, setShowLabels] = useState(true)
+  const [showHeatmap, setShowHeatmap] = useState(false)
   const [onlyWithServices, setOnlyWithServices] = useState(false)
   const [baseMap, setBaseMap] = useState('osm')
   const [searchText, setSearchText] = useState('')
@@ -60,16 +61,16 @@ function App() {
 
         <section className="grid gap-4 lg:h-[calc(100vh-10.5rem)] lg:min-h-0 lg:grid-cols-[340px_1fr]">
           <aside
-            className={`min-h-0 ${showMobileControls ? 'block' : 'hidden'} lg:block`}
+            className={`min-h-0 ${showMobileControls ? 'block' : 'hidden'} lg:block lg:h-full`}
           >
-            <div className="flex min-h-0 flex-col rounded-2xl border border-slate-200 bg-[#0b3b6f] p-4 text-white shadow-xl">
+            <div className="flex h-full min-h-0 flex-col rounded-2xl border border-slate-200 bg-[#0b3b6f] p-4 text-white shadow-xl">
             <div className="mb-3 flex items-center justify-between border-b border-cyan-200/30 pb-3">
               <h2 className="text-xl font-semibold tracking-wide">Map Controls</h2>
               <span className="rounded-full bg-cyan-400/20 px-2 py-1 text-xs font-medium text-cyan-100">
                 Live
               </span>
             </div>
-            <div className="max-h-[48vh] flex-1 space-y-3 overflow-y-auto pr-1 lg:max-h-none">
+            <div className="max-h-[48vh] min-h-0 flex-1 space-y-3 overflow-y-auto pr-1 overscroll-contain lg:max-h-none">
               <div className="rounded-xl bg-white/95 p-3 text-slate-800">
                 <label className="mb-1 block text-xs font-semibold uppercase tracking-wider text-slate-500">
                   Village Search
@@ -92,6 +93,7 @@ function App() {
                 >
                   <option value="osm">OpenStreetMap</option>
                   <option value="carto">CARTO Light</option>
+                  <option value="satellite">Satellite</option>
                 </select>
               </div>
 
@@ -123,6 +125,10 @@ function App() {
                   <label className="flex items-center gap-2">
                     <input type="checkbox" checked={showLabels} onChange={() => setShowLabels((v) => !v)} />
                     Permanent village labels
+                  </label>
+                  <label className="flex items-center gap-2">
+                    <input type="checkbox" checked={showHeatmap} onChange={() => setShowHeatmap((v) => !v)} />
+                    Service density heatmap
                   </label>
                   <label className="flex items-center gap-2">
                     <input
@@ -217,13 +223,14 @@ function App() {
             </div>
           </aside>
 
-          <section className="h-[58vh] min-h-[360px] overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-xl sm:h-[62vh] lg:h-auto lg:min-h-0">
+          <section className="h-[58vh] min-h-90 overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-xl sm:h-[62vh] lg:h-auto lg:min-h-0">
             <Map
               baseMap={baseMap}
               showBoundary={showBoundary}
               showVillages={showVillages}
               showLandmarks={showLandmarks}
               showLabels={showLabels}
+              showHeatmap={showHeatmap}
               onlyWithServices={onlyWithServices}
               searchText={searchText}
               landmarkTypeFilter={landmarkTypeFilter}
